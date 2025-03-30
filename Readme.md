@@ -1,5 +1,6 @@
 # Hands On Intervention
 
+
 This ROS package contains the implementation of a pick and place routine using a Turtlebot 2 equiped with a 4DOF Swiftpro Manipulator. The target positions are identified by Aruco markers and the objects are transported by the manipulator and place it in another place. 
 
 ## Group Members
